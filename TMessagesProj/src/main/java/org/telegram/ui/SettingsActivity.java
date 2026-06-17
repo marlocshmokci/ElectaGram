@@ -887,7 +887,7 @@ public class SettingsActivity extends BaseFragment implements NotificationCenter
                 break;
             }
             case 50: {
-                presentFragment(new NekoSettingsActivity());
+                presentSettingFragment(new NekoSettingsActivity());
                 break;
             }
         }
